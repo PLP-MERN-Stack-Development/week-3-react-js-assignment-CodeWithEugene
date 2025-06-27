@@ -1,0 +1,4 @@
+/* These are Tailwind directives that inject its base, component, and utility styles. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
